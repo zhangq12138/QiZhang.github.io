@@ -7,14 +7,13 @@
 # server process.
 
 # Basic Site Settings
-remote_theme: academicpages/academicpages.github.io
-plugins: - jekyll-remote-theme
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
+remote_theme             : academicpages/academicpages.github.io
 url                      : https://zhangq12138.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -301,6 +300,7 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
