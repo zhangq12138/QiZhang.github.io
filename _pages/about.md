@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Southampton Ocean Engineering Joint Institute at Harbin Engineering University](https://uosjei.hrbeu.edu.cn), [Harbin Engineering University](http://www.hrbeu.edu.cn). My research interest includes  MRE (magnetorheological elastomers),computer vision, computer graphics, and machine learning.
+Hello! I'm a third year undergraduate student from [Southampton Ocean Engineering Joint Institute at Harbin Engineering University](https://uosjei.hrbeu.edu.cn), [Harbin Engineering University](http://www.hrbeu.edu.cn). My research interest includes  MRE (magnetorheological elastomers),computer vision, computer graphics, and machine learning.
 
 I am very fortunate to be advised by Prof. Liqiang Dong from [College of Information And Communication Engineering](https://icec.hrbeu.edu.cn), Harbin Engineering University. 
 
