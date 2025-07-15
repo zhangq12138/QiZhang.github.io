@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 remote_theme: academicpages/academicpages.github.io
-plugins: \n - jekyll-remote-theme
+plugins: - jekyll-remote-theme
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Your Name / Site Title"
