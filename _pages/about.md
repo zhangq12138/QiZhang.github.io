@@ -11,7 +11,7 @@ Hello! I'm a third year undergraduate student from [Southampton Ocean Engineerin
 
 I am very fortunate to be advised by Prof. Liqiang Dong from [College of Information And Communication Engineering](https://icec.hrbeu.edu.cn), Harbin Engineering University. 
 
-You can find my CV here: [Qi Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zhang Qi's Curriculum Vitae]({{ site.baseurl }}/files/Zhang_Qi_CV.pdf).
 
 [Email](mailto:1686518981@qq.com):1686518981@qq.com/ [Wechat](../images/wechat.jpg) /Telephone:+86 15968842813
                         
