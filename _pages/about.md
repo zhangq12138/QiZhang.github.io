@@ -13,7 +13,7 @@ I am very fortunate to be advised by Prof. Liqiang Dong from [College of Informa
 
 You can find my CV here: [Qi Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:qz2c23@soton.ac.uk):qz2c23@soton.ac.uk/ [Wechat](../images/wechat.jpg) /Telephone:+86 15968842813
+[Email](mailto:1686518981@qq.com):1686518981@qq.com/ [Wechat](../images/wechat.jpg) /Telephone:+86 15968842813
                         
 Getting started
 ======
